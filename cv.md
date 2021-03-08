@@ -10,3 +10,9 @@
 *HTML, CSS, JS(Bootstrap, JQUERY and basic React), basic Python, basic PHP.*
 ### Examples of projects:
 [Netclicks](//www.github.com/sirssd/Netclicks)
+### Experience:
+*Accomplished courses: HTML, CSS, JS, constantky watching IT streams.*
+### Languages:
+  *  English (Elementary)
+  *  Russian (Native)
+  *  Uzbek (Native)
